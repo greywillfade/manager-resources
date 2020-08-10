@@ -7,8 +7,9 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Building culture
 * [The Rands test](https://randsinrepose.com/archives/the-rands-test/)
 
-## Tackling inequality
+## Tackling inequality and inclusivity
 * [Why Do So Many Incompetent Men Become Leaders?](https://hbr.org/2013/08/why-do-so-many-incompetent-men)
+* [Monzo D&I resources - by Sheree Atcheson](https://monzo.com/blog/training-and-resources-to-help-you-make-your-organisation-more-inclusive)
 
 ## Team health
 * [BICEPS](https://www.palomamedina.com/biceps)
