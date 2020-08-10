@@ -11,6 +11,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Why Do So Many Incompetent Men Become Leaders?](https://hbr.org/2013/08/why-do-so-many-incompetent-men)
 
 ## Team health
+* [BICEPS](https://www.palomamedina.com/biceps)
 * [The Joel test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 ## Org structure
