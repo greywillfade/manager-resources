@@ -16,9 +16,14 @@ A place for (hopefully!) useful resources and references for engineering manager
 
 ## Org structure
 * [Spotify's Failed Squad Goals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
+* [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 ## Handling situations
 * [Leading Through Anxiety](https://hbr.org/cover-story/2020/05/leading-through-anxiety)
+
+## Promotions and progression
+* [Progression.fyi](https://www.progression.fyi/)
+* [Staff Eng](https://staffeng.com/) - career paths of people reaching Staff level
 
 ## Hiring
 
@@ -31,6 +36,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Lara Hogan](https://larahogan.me/blog/) - tons of brilliant blog posts
 * [Wherewithall](https://wherewithall.com/tools/) - coaching, workshops, free tools
 * [High Growth Engineering, Stephen Whitworth](https://highgrowthengineering.substack.com/)
+* [Will Larson](https://lethain.com/about/)
 
 ## Tools
 * [Calendly](https://calendly.com)
@@ -49,6 +55,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [The Manager's Path, Camille Fournier](The Manager's Path)
 * [An Elegant Puzzle, Will Larson](https://www.goodreads.com/en/book/show/45303387-an-elegant-puzzle)
 * [Resilient Management, Lara Hogan](https://abookapart.com/products/resilient-management)
+* [The Making of a Manager, Julie Zhuo](https://www.juliezhuo.com/book/manager.html)
 
 ## Conferences
 * [Lead Dev Conference series](https://theleaddeveloper.com/)
