@@ -10,6 +10,8 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Tackling inequality and inclusivity
 * [Why Do So Many Incompetent Men Become Leaders?](https://hbr.org/2013/08/why-do-so-many-incompetent-men)
 * [Monzo D&I resources - by Sheree Atcheson](https://monzo.com/blog/training-and-resources-to-help-you-make-your-organisation-more-inclusive)
+* [Managing unconscious bias - Facebook](https://managingbias.fb.com/)
+* [Raise awareness about unconscious bias - re:Work](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/introduction/)
 
 ## Team health
 * [BICEPS](https://www.palomamedina.com/biceps)
@@ -25,6 +27,12 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Promotions and progression
 * [Progression.fyi](https://www.progression.fyi/)
 * [Staff Eng](https://staffeng.com/) - career paths of people reaching Staff level
+
+## Distributed working
+* [Zapier's guide](https://zapier.com/learn/remote-work/)
+* [Distributed.blog](https://distributed.blog/)
+* [Automattic - social communication](https://automattic.com/social-communication/)
+* [Automattic - overview of how they work](https://automattic.com/work-with-us/)
 
 ## Hiring
 
