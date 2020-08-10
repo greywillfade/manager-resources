@@ -26,10 +26,11 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Engineering Management at GitLab](https://about.gitlab.com/handbook/engineering/management/)
 * [Attest Engineering Handbook](https://www.notion.so/Attest-Engineering-Handbook-45de81cfc94b40ccb08aae9119bcbf9c)
 
-## A range of things I haven't yet classified
+## People who write lots of good things across different topics
 * [Rands in Repose](https://randsinrepose.com/dont-skip-this/)
 * [Lara Hogan](https://larahogan.me/blog/) - tons of brilliant blog posts
 * [Wherewithall](https://wherewithall.com/tools/) - coaching, workshops, free tools
+* [High Growth Engineering, Stephen Whitworth](https://highgrowthengineering.substack.com/)
 
 ## Tools
 * [Calendly](https://calendly.com)
