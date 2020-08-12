@@ -7,6 +7,10 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Building culture
 * [The Rands test](https://randsinrepose.com/archives/the-rands-test/)
 
+## Tech leading
+* [The definition of a tech lead - Pat Kua](https://www.patkua.com/blog/the-definition-of-a-tech-lead/)
+* [Becoming a 10x Developer](https://www.kateheddleston.com/blog/becoming-a-10x-developer)
+
 ## Tackling inequality and inclusivity
 * [Why Do So Many Incompetent Men Become Leaders?](https://hbr.org/2013/08/why-do-so-many-incompetent-men)
 * [Monzo D&I resources - by Sheree Atcheson](https://monzo.com/blog/training-and-resources-to-help-you-make-your-organisation-more-inclusive)
@@ -20,6 +24,8 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Org structure
 * [Spotify's Failed Squad Goals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
+* [The trident model of career development - Pat Kua](https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/)
+* [5 EM archetypes - Pat Kua](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
 
 ## Handling situations
 * [Leading Through Anxiety](https://hbr.org/cover-story/2020/05/leading-through-anxiety)
@@ -46,6 +52,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Wherewithall](https://wherewithall.com/tools/) - coaching, workshops, free tools
 * [High Growth Engineering, Stephen Whitworth](https://highgrowthengineering.substack.com/)
 * [Will Larson](https://lethain.com/about/)
+* [LeadDev](https://leaddev.com/) - engineering leadership topics
 
 ## Tools
 * [Calendly](https://calendly.com)
