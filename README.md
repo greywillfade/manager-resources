@@ -3,6 +3,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 
 ## Making change happen
 * [Kotter's 8-Step Process for Leading Change](https://www.kotterinc.com/8-steps-process-for-leading-change/)
+* [Testing on the toilet](https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html)
 
 ## Building culture
 * [The Rands test](https://randsinrepose.com/archives/the-rands-test/)
@@ -29,6 +30,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 
 ## Handling situations
 * [Leading Through Anxiety](https://hbr.org/cover-story/2020/05/leading-through-anxiety)
+* [Conflict management in software development environments](https://www.researchgate.net/profile/Jean_Richardson4/publication/318987959_Conflict_Management_in_Software_Development_Environments/links/5989dc60aca27266adae0704/Conflict-Management-in-Software-Development-Environments.pdf?origin=publication_detail)
 
 ## Promotions and progression
 * [Progression.fyi](https://www.progression.fyi/)
@@ -39,6 +41,10 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Distributed.blog](https://distributed.blog/)
 * [Automattic - social communication](https://automattic.com/social-communication/)
 * [Automattic - overview of how they work](https://automattic.com/work-with-us/)
+
+## Scaling
+* [Stripe - Scaling engineering organizations](https://stripe.com/gb/atlas/guides/scaling-eng)
+* [What I Learned Scaling Engineering Teams Through Euphoria and Horror](https://firstround.com/review/what-i-learned-scaling-engineering-teams-through-euphoria-and-horror/)
 
 ## Hiring
 
