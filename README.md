@@ -18,9 +18,11 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Managing unconscious bias - Facebook](https://managingbias.fb.com/)
 * [Raise awareness about unconscious bias - re:Work](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/introduction/)
 
-## Team health
+## Team health and performance
+* [re:Work by Google guide: Understand team effectiveness](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/)
 * [BICEPS](https://www.palomamedina.com/biceps)
 * [The Joel test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+* [The Set-Up-To-Fail Syndrome](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
 
 ## Org structure
 * [Spotify's Failed Squad Goals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
@@ -51,6 +53,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Other people's handbooks
 * [Engineering Management at GitLab](https://about.gitlab.com/handbook/engineering/management/)
 * [Attest Engineering Handbook](https://www.notion.so/Attest-Engineering-Handbook-45de81cfc94b40ccb08aae9119bcbf9c)
+* [re:Work by Google](https://rework.withgoogle.com/) - re:Work is a collection of practices, research, and ideas from Google and others to help you put people first.
 
 ## People who write lots of good things across different topics
 * [Rands in Repose](https://randsinrepose.com/dont-skip-this/)
@@ -78,6 +81,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [An Elegant Puzzle, Will Larson](https://www.goodreads.com/en/book/show/45303387-an-elegant-puzzle)
 * [Resilient Management, Lara Hogan](https://abookapart.com/products/resilient-management)
 * [The Making of a Manager, Julie Zhuo](https://www.juliezhuo.com/book/manager.html)
+* [The First 90 Days](https://www.amazon.co.uk/First-Days-Updated-Expanded-Strategies/dp/1422188612/ref=sr_1_1) - starting a new role
 
 ## Conferences
 * [Lead Dev Conference series](https://theleaddeveloper.com/)
