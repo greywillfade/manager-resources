@@ -29,6 +29,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 * [The trident model of career development - Pat Kua](https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/)
 * [5 EM archetypes - Pat Kua](https://www.patkua.com/blog/5-engineering-manager-archetypes/)
+* [Anna Shipman, Unlocking value with durable teams](https://www.annashipman.co.uk/jfdi/durable-teams.html)
 
 ## Handling situations
 * [Leading Through Anxiety](https://hbr.org/cover-story/2020/05/leading-through-anxiety)
