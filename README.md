@@ -19,6 +19,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Raise awareness about unconscious bias - re:Work](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/introduction/)
 
 ## Team health and performance
+* [Debugging engineering velocity and leading high-performing teams](https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams)
 * [re:Work by Google guide: Understand team effectiveness](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/)
 * [BICEPS](https://www.palomamedina.com/biceps)
 * [The Joel test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
