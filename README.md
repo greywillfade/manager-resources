@@ -46,6 +46,11 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Automattic - social communication](https://automattic.com/social-communication/)
 * [Automattic - overview of how they work](https://automattic.com/work-with-us/)
 
+## Starting a new CTO/VP role
+* [90 Day Plan for a CTO in a New Job](https://www.linkedin.com/pulse/90-day-plan-cto-new-job-rajiv-pant/)
+* [VPE and CTO - The First 90 Days](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days)
+* [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/)
+
 ## Scaling
 * [Stripe - Scaling engineering organizations](https://stripe.com/gb/atlas/guides/scaling-eng)
 * [What I Learned Scaling Engineering Teams Through Euphoria and Horror](https://firstround.com/review/what-i-learned-scaling-engineering-teams-through-euphoria-and-horror/)
