@@ -55,6 +55,9 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Stripe - Scaling engineering organizations](https://stripe.com/gb/atlas/guides/scaling-eng)
 * [What I Learned Scaling Engineering Teams Through Euphoria and Horror](https://firstround.com/review/what-i-learned-scaling-engineering-teams-through-euphoria-and-horror/)
 
+## Incidents and quality
+* [Markers of Progress in Incident Analysis](https://www.adaptivecapacitylabs.com/blog/2019/11/20/markers-of-progress-incident-analysis/)
+
 ## Hiring
 
 ## Other people's handbooks
