@@ -59,6 +59,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Markers of Progress in Incident Analysis](https://www.adaptivecapacitylabs.com/blog/2019/11/20/markers-of-progress-incident-analysis/)
 
 ## Hiring
+* [Giving candidates questions in advance](https://business.linkedin.com/talent-solutions/blog/2015/02/give-candidates-interview-questions-in-advance-to-increase-accuracy)
 
 ## Other people's handbooks
 * [Engineering Management at GitLab](https://about.gitlab.com/handbook/engineering/management/)
