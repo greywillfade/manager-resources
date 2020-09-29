@@ -5,9 +5,6 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Kotter's 8-Step Process for Leading Change](https://www.kotterinc.com/8-steps-process-for-leading-change/)
 * [Testing on the toilet](https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html)
 
-## Building culture
-* [The Rands test](https://randsinrepose.com/archives/the-rands-test/)
-
 ## Tech leading
 * [The definition of a tech lead - Pat Kua](https://www.patkua.com/blog/the-definition-of-a-tech-lead/)
 * [Becoming a 10x Developer](https://www.kateheddleston.com/blog/becoming-a-10x-developer)
@@ -61,13 +58,16 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Hiring
 * [Giving candidates questions in advance](https://business.linkedin.com/talent-solutions/blog/2015/02/give-candidates-interview-questions-in-advance-to-increase-accuracy)
 
+## Career coaching
+* [WHAT AM I GOING TO DO WITH MY LIFE? slides](https://docs.google.com/presentation/d/1dM-XIIarWt3PsHxFi_B92-pYc1Xjh80AJZR93Ogt02g/edit?usp=sharing)
+* [How to think about your career](https://medium.com/career-and-motivation/how-to-think-about-your-career-e3595add4186)
+
 ## Other people's handbooks
 * [Engineering Management at GitLab](https://about.gitlab.com/handbook/engineering/management/)
 * [Attest Engineering Handbook](https://www.notion.so/Attest-Engineering-Handbook-45de81cfc94b40ccb08aae9119bcbf9c)
 * [re:Work by Google](https://rework.withgoogle.com/) - re:Work is a collection of practices, research, and ideas from Google and others to help you put people first.
 
 ## People who write lots of good things across different topics
-* [Rands in Repose](https://randsinrepose.com/dont-skip-this/)
 * [Lara Hogan](https://larahogan.me/blog/) - tons of brilliant blog posts
 * [Wherewithall](https://wherewithall.com/tools/) - coaching, workshops, free tools
 * [High Growth Engineering, Stephen Whitworth](https://highgrowthengineering.substack.com/)
