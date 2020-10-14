@@ -10,6 +10,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Becoming a 10x Developer](https://www.kateheddleston.com/blog/becoming-a-10x-developer)
 
 ## Tackling inequality and inclusivity
+* [The Importance of Gender Neutral Language for Defence](https://wavellroom.com/2020/03/08/the-importance-of-gender-neutral-language-for-defence/)
 * [Why Do So Many Incompetent Men Become Leaders?](https://hbr.org/2013/08/why-do-so-many-incompetent-men)
 * [Monzo D&I resources - by Sheree Atcheson](https://monzo.com/blog/training-and-resources-to-help-you-make-your-organisation-more-inclusive)
 * [Managing unconscious bias - Facebook](https://managingbias.fb.com/)
@@ -21,6 +22,9 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [BICEPS](https://www.palomamedina.com/biceps)
 * [The Joel test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 * [The Set-Up-To-Fail Syndrome](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
+
+## Delivery metrics
+* [A primer on engineering delivery metrics](https://leaddev.com/scaling-software-systems/primer-engineering-delivery-metrics)
 
 ## Org structure
 * [Spotify's Failed Squad Goals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
@@ -62,6 +66,9 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [WHAT AM I GOING TO DO WITH MY LIFE? slides](https://docs.google.com/presentation/d/1dM-XIIarWt3PsHxFi_B92-pYc1Xjh80AJZR93Ogt02g/edit?usp=sharing)
 * [How to think about your career](https://medium.com/career-and-motivation/how-to-think-about-your-career-e3595add4186)
 
+## Governance
+* [Thread by John Bull](https://twitter.com/garius/status/1290620907170541583)
+
 ## Other people's handbooks
 * [Engineering Management at GitLab](https://about.gitlab.com/handbook/engineering/management/)
 * [Attest Engineering Handbook](https://www.notion.so/Attest-Engineering-Handbook-45de81cfc94b40ccb08aae9119bcbf9c)
@@ -88,6 +95,8 @@ A place for (hopefully!) useful resources and references for engineering manager
 * Custom profile metadata (pronouns, name pronunciation)
 
 ## Books
+* [Turn the Ship Around!](https://www.davidmarquet.com/turn-the-ship-around-a-true-story-of-turning-followers-into-leaders-by-david-marquet/)
+* [The Culture Code](http://danielcoyle.com/the-culture-code/)
 * [The Manager's Path, Camille Fournier](The Manager's Path)
 * [An Elegant Puzzle, Will Larson](https://www.goodreads.com/en/book/show/45303387-an-elegant-puzzle)
 * [Resilient Management, Lara Hogan](https://abookapart.com/products/resilient-management)
