@@ -26,6 +26,9 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Delivery metrics
 * [A primer on engineering delivery metrics](https://leaddev.com/scaling-software-systems/primer-engineering-delivery-metrics)
 
+## Time management/delegation
+* [Management Time: Who’s Got the Monkey?](https://hbr.org/1999/11/management-time-whos-got-the-monkey)
+
 ## Org structure
 * [Spotify's Failed Squad Goals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
@@ -84,6 +87,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Tools
 * [Calendly](https://calendly.com)
 * [Pragli](https://pragli.com) - Virtual office for remote teams
+* [Manager Readme](https://managerreadme.com)
 
 ### Slack
 * Setting standards and expectations 
