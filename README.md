@@ -15,6 +15,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Monzo D&I resources - by Sheree Atcheson](https://monzo.com/blog/training-and-resources-to-help-you-make-your-organisation-more-inclusive)
 * [Managing unconscious bias - Facebook](https://managingbias.fb.com/)
 * [Raise awareness about unconscious bias - re:Work](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/introduction/)
+* [The Real Reason Women Aren’t Getting Ahead in Tech: “She’s Not Strategic”](https://medium.com/swlh/the-real-reason-women-arent-getting-ahead-in-tech-she-s-not-strategic-5ba98ad91f77)
 
 ## Team health and performance
 * [Debugging engineering velocity and leading high-performing teams](https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams)
