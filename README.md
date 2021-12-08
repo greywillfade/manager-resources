@@ -69,6 +69,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Career coaching
 * [WHAT AM I GOING TO DO WITH MY LIFE? slides](https://docs.google.com/presentation/d/1dM-XIIarWt3PsHxFi_B92-pYc1Xjh80AJZR93Ogt02g/edit?usp=sharing)
 * [How to think about your career](https://medium.com/career-and-motivation/how-to-think-about-your-career-e3595add4186)
+* [How to play to your strengths](https://hbr.org/2005/01/how-to-play-to-your-strengths) – talks about the importance of positive reinforcement and focusing on strengths, as well as walking through the Reflected Best Self (RBS) exercise.
 
 ## Governance
 * [Thread by John Bull](https://twitter.com/garius/status/1290620907170541583)
