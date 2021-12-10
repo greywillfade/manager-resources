@@ -16,6 +16,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Managing unconscious bias - Facebook](https://managingbias.fb.com/)
 * [Raise awareness about unconscious bias - re:Work](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/introduction/)
 * [The Real Reason Women Aren’t Getting Ahead in Tech: “She’s Not Strategic”](https://medium.com/swlh/the-real-reason-women-arent-getting-ahead-in-tech-she-s-not-strategic-5ba98ad91f77)
+* [The confidence gap](https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/)
 
 ## Team health and performance
 * [Debugging engineering velocity and leading high-performing teams](https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams)
@@ -26,6 +27,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 
 ## Delivery metrics
 * [A primer on engineering delivery metrics](https://leaddev.com/scaling-software-systems/primer-engineering-delivery-metrics)
+* [A Rubric for Evaluating Team Members’ Contributions to a Maintainable Code Base ](https://chelseatroy.com/2021/10/29/a-rubric-for-evaluating-team-members-contributions-to-a-maintainable-code-base/)
 
 ## Time management/delegation
 * [Management Time: Who’s Got the Monkey?](https://hbr.org/1999/11/management-time-whos-got-the-monkey)
@@ -103,7 +105,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Books
 * [Turn the Ship Around!](https://www.davidmarquet.com/turn-the-ship-around-a-true-story-of-turning-followers-into-leaders-by-david-marquet/)
 * [The Culture Code](http://danielcoyle.com/the-culture-code/)
-* [The Manager's Path, Camille Fournier](The Manager's Path)
+* [The Manager’s Path, Camille Fournier](The Manager's Path)
 * [An Elegant Puzzle, Will Larson](https://www.goodreads.com/en/book/show/45303387-an-elegant-puzzle)
 * [Resilient Management, Lara Hogan](https://abookapart.com/products/resilient-management)
 * [The Making of a Manager, Julie Zhuo](https://www.juliezhuo.com/book/manager.html)
