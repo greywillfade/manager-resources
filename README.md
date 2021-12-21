@@ -29,6 +29,9 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [A primer on engineering delivery metrics](https://leaddev.com/scaling-software-systems/primer-engineering-delivery-metrics)
 * [A Rubric for Evaluating Team Members’ Contributions to a Maintainable Code Base ](https://chelseatroy.com/2021/10/29/a-rubric-for-evaluating-team-members-contributions-to-a-maintainable-code-base/)
 
+## Tech debt/investments
+* [Reframing tech debt](https://increment.com/planning/reframing-tech-debt/)
+
 ## Time management/delegation
 * [Management Time: Who’s Got the Monkey?](https://hbr.org/1999/11/management-time-whos-got-the-monkey)
 
