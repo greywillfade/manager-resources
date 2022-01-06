@@ -24,6 +24,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [BICEPS](https://www.palomamedina.com/biceps)
 * [The Joel test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 * [The Set-Up-To-Fail Syndrome](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
+* [Measuring Decision Effectiveness](https://www.bain.com/insights/measuring-decision-effectiveness/)
 
 ## Delivery metrics
 * [A primer on engineering delivery metrics](https://leaddev.com/scaling-software-systems/primer-engineering-delivery-metrics)
@@ -31,6 +32,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 
 ## Tech debt/investments
 * [Reframing tech debt](https://increment.com/planning/reframing-tech-debt/)
+* [Understanding legacy code](https://understandlegacycode.com/)
 
 ## Time management/delegation
 * [Management Time: Who’s Got the Monkey?](https://hbr.org/1999/11/management-time-whos-got-the-monkey)
@@ -49,6 +51,9 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Promotions and progression
 * [Progression.fyi](https://www.progression.fyi/)
 * [Staff Eng](https://staffeng.com/) - career paths of people reaching Staff level
+
+## Prioritisation
+* [RICE: Simple prioritization for product managers ](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 
 ## Distributed working
 * [Zapier's guide](https://zapier.com/learn/remote-work/)
@@ -70,6 +75,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 
 ## Hiring
 * [Giving candidates questions in advance](https://business.linkedin.com/talent-solutions/blog/2015/02/give-candidates-interview-questions-in-advance-to-increase-accuracy)
+* [How to interview an executive](https://delian.io/lessons-2)
 
 ## Career coaching
 * [WHAT AM I GOING TO DO WITH MY LIFE? slides](https://docs.google.com/presentation/d/1dM-XIIarWt3PsHxFi_B92-pYc1Xjh80AJZR93Ogt02g/edit?usp=sharing)
