@@ -69,6 +69,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 ## Scaling
 * [Stripe - Scaling engineering organizations](https://stripe.com/gb/atlas/guides/scaling-eng)
 * [What I Learned Scaling Engineering Teams Through Euphoria and Horror](https://firstround.com/review/what-i-learned-scaling-engineering-teams-through-euphoria-and-horror/)
+* [Recruiter velocity check tool](https://infraeng.dev/recruiter-velocity-check/) – headcount planning and reality check
 
 ## Incidents and quality
 * [Markers of Progress in Incident Analysis](https://www.adaptivecapacitylabs.com/blog/2019/11/20/markers-of-progress-incident-analysis/)
@@ -89,6 +90,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Engineering Management at GitLab](https://about.gitlab.com/handbook/engineering/management/)
 * [Attest Engineering Handbook](https://www.notion.so/Attest-Engineering-Handbook-45de81cfc94b40ccb08aae9119bcbf9c)
 * [re:Work by Google](https://rework.withgoogle.com/) - re:Work is a collection of practices, research, and ideas from Google and others to help you put people first.
+* [The Kool Aid Factory, The Planning Issue](https://koolaidfactory.com/zines/the-planning-issue/) – Deciding what to work on and how you'll get there
 
 ## People who write lots of good things across different topics
 * [Lara Hogan](https://larahogan.me/blog/) - tons of brilliant blog posts
