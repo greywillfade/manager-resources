@@ -31,6 +31,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [A Rubric for Evaluating Team Members’ Contributions to a Maintainable Code Base ](https://chelseatroy.com/2021/10/29/a-rubric-for-evaluating-team-members-contributions-to-a-maintainable-code-base/)
 
 ## Tech debt/investments
+* [How to break the cycle of tech debt](https://leaddev.com/legacy-technical-debt-migrations/how-break-cycle-tech-debt)
 * [Reframing tech debt](https://increment.com/planning/reframing-tech-debt/)
 * [Understanding legacy code](https://understandlegacycode.com/)
 
