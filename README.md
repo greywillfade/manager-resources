@@ -1,6 +1,10 @@
 # Manager resources
 A place for (hopefully!) useful resources and references for engineering managers. I'll aim to add in more every time I have a tab open for too long...
 
+## Handling the tough bits of being a manager
+* [The problem with your manager...](https://theengineeringmanager.substack.com/p/the-problem-with-your-manager) - friction between reports, expectation
+* [The disappointment frontier](https://theengineeringmanager.substack.com/p/the-disappointment-frontier) 
+
 ## Making change happen
 * [Kotter's 8-Step Process for Leading Change](https://www.kotterinc.com/8-steps-process-for-leading-change/)
 * [Testing on the toilet](https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html)
@@ -17,6 +21,7 @@ A place for (hopefully!) useful resources and references for engineering manager
 * [Raise awareness about unconscious bias - re:Work](https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/introduction/)
 * [The Real Reason Women Aren’t Getting Ahead in Tech: “She’s Not Strategic”](https://medium.com/swlh/the-real-reason-women-arent-getting-ahead-in-tech-she-s-not-strategic-5ba98ad91f77)
 * [The confidence gap](https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/)
+* Will and Meri's point on [attitudes to personal grades] (https://medium.com/@willpillar/hitting-the-wall-why-progression-gets-hard-a3a751bd0dbd) - part of a wider article
 
 ## Team health and performance
 * [Debugging engineering velocity and leading high-performing teams](https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams)
